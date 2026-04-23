@@ -1,16 +1,34 @@
-## Hi there 👋
+# 👋 Hi, I'm Houy
 
-<!--
-**baikimhouy/baikimhouy** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+![Typing SVG](https://readme-typing-svg.herokuapp.com?color=00F7FF&lines=Java+Developer;Spring+Boot+Learner;Frontend+Explorer)
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 🚀 About Me
+- 🎓 Student learning programming
+- 💻 Building projects with Java & Spring Boot
+- 🌱 Currently learning Flutter & UI Design
+
+---
+
+## 🛠 Tech Stack
+- 💻 Java, C++, JavaScript
+- 🌐 HTML, CSS, Tailwind
+- ⚙️ Spring Boot
+- 🗄 SQL
+
+---
+
+## 📊 GitHub Stats
+![Stats](https://github-readme-stats.vercel.app/api?username=YOUR_USERNAME&show_icons=true&theme=radical)
+
+---
+
+## 🔥 Streak
+![Streak](https://github-readme-streak-stats.herokuapp.com/?user=YOUR_USERNAME&theme=radical)
+
+---
+
+## 📫 Contact
+- Email: ctin871@email.com
+- ![Coding](https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif)
