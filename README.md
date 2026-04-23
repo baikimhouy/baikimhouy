@@ -12,7 +12,8 @@
 ## ˚₊‧꩜ about me ꩜‧₊˚
 
 </div>
-<img align="right" src="[https://media.giphy.com/media/L1R1tvI9svkIWwpVYr/giphy.gif](https://media.giphy.com/media/26BRv0ThflsHCqDrG/giphy.gif" width="220" alt="coding anime gif"/>
+<img align="right" src="826486d7a053e77d97d4d94199c3a2359f90f44f" width="220" alt="coding anime gif"/>
+
 ```yaml
 name:      "Bai Kimhouy"
 role:      Full Stack Developer
