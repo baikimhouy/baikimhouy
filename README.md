@@ -3,7 +3,7 @@
 ## ˚₊‧꩜ about me ꩜‧₊˚
 
 </div>
-<img align="right" src="https://i.pinimg.com/originals/c2/58/82/c25882c15c5e1a39091f3d0bed50f3e9.gif" width="220" alt="coding anime gif"/>
+<img align="right" src="https://i.pinimg.com/originals/27/ee/71/27ee71b104a1d7d0fcc49383408911c7.gif" width="400" alt="coding anime gif"/>
 
 ```yaml
 name:      "Bai Kimhouy"
@@ -78,5 +78,5 @@ fun facts:
 [![Email](https://img.shields.io/badge/Email-90C8E0?style=for-the-badge&logo=gmail&logoColor=white)](mailto:ctin871@email.com)
 
 <br/>
-<img align="right" src="(https://i.pinimg.com/originals/57/12/21/571221c32d92e04b94ee4c31d3a5928f.gif)" width="full" alt="coding anime gif"/>
+<img align="right" src="https://i.pinimg.com/originals/57/12/21/571221c32d92e04b94ee4c31d3a5928f.gif" width="full" alt="coding if"/>
 </div>
