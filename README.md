@@ -3,9 +3,6 @@
 <!-- Capsule Header -->
 ![header](https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,14,24&height=200&section=header&text=hello%20there%20✿&fontSize=52&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=welcome%20to%20my%20little%20corner%20of%20the%20internet&descAlignY=58&descSize=16&descColor=ffffffcc)
 
-<!-- Typing animation -->
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Nunito&size=24&duration=3000&pause=800&color=A8D8EA&center=true&vCenter=true&multiline=false&width=600&lines=✨+full+stack+developer+✨;building+soft%2C+beautiful+things+🌸;one+pixel+at+a+time+🌿;dreaming+in+code+🌙)](https://git.io/typing-svg)
-
 <br/>
 
 </div>
@@ -88,14 +85,7 @@ fun facts:
 
 [![Portfolio](https://img.shields.io/badge/Portfolio-F4A7B9?style=for-the-badge&logo=firefox&logoColor=white)](https://yourportfolio.dev)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-A8D8EA?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/yourhandle)
-[![Twitter](https://img.shields.io/badge/Twitter-B5EAD7?style=for-the-badge&logo=twitter&logoColor=555)](https://twitter.com/yourhandle)
-[![Email](https://img.shields.io/badge/Email-F4A7B9?style=for-the-badge&logo=gmail&logoColor=white)](mailto:your@email.com)
+[![Twitter](https://img.shields.io/badge/Twitter-B5EAD7?style=for-the-badge&logo=twitter&logoColor=555)](https://twitter.com/LiJianjiange)
+[![Email](https://img.shields.io/badge/Email-F4A7B9?style=for-the-badge&logo=gmail&logoColor=white)](mailto:ctin871@email.com)
 
 <br/>
-
-```
-　　　　✦ · · · · · · · · · · · · · · · · · · · · · · · ✦
-　　　　　　thanks for stopping by, have a lovely day 🌸
-　　　　✦ · · · · · · · · · · · · · · · · · · · · · · · ✦
-```
-
