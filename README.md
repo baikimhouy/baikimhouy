@@ -1,14 +1,5 @@
 <div align="center">
 
-<!-- Capsule Header -->
-![header](https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=0,12,20&height=200&section=header&text=hello%20there%20✿&fontSize=52&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=welcome%20to%20my%20little%20corner%20of%20the%20internet&descAlignY=58&descSize=16&descColor=ffffffcc)
-
-</div>
-
----
-
-<div align="center">
-
 ## ˚₊‧꩜ about me ꩜‧₊˚
 
 </div>
@@ -87,4 +78,5 @@ fun facts:
 [![Email](https://img.shields.io/badge/Email-90C8E0?style=for-the-badge&logo=gmail&logoColor=white)](mailto:ctin871@email.com)
 
 <br/>
+<img align="right" src="(https://i.pinimg.com/originals/57/12/21/571221c32d92e04b94ee4c31d3a5928f.gif)" width="full" alt="coding anime gif"/>
 </div>
