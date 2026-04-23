@@ -1,6 +1,6 @@
 <div align="center">
 
-## ˚₊‧꩜ about me ꩜‧₊˚
+## about me
 
 </div>
 <img align="right" src="https://i.pinimg.com/originals/f0/13/70/f01370d5b9d7c829fa7bf5ac9d628c9a.gif" width="250" alt="coding anime gif"/>
@@ -26,7 +26,7 @@ fun facts:
 
 <div align="center">
 
-## ˚₊‧꩜ tech stack ꩜‧₊˚
+## ˚ tech stack ˚
 
 ### Frontend
 ![HTML5](https://img.shields.io/badge/HTML5-90C8E0?style=for-the-badge&logo=html5&logoColor=white)
@@ -39,16 +39,11 @@ fun facts:
 
 ### Backend
 ![Node.js](https://img.shields.io/badge/Node.js-B8D8F0?style=for-the-badge&logo=node.js&logoColor=444)
-![Express](https://img.shields.io/badge/Express-5B9EC9?style=for-the-badge&logo=express&logoColor=white)
-![Python](https://img.shields.io/badge/Python-90C8E0?style=for-the-badge&logo=python&logoColor=white)
 ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-5B9EC9?style=for-the-badge&logo=postgresql&logoColor=white)
-![MongoDB](https://img.shields.io/badge/MongoDB-B8D8F0?style=for-the-badge&logo=mongodb&logoColor=444)
-![Redis](https://img.shields.io/badge/Redis-90C8E0?style=for-the-badge&logo=redis&logoColor=white)
 
 ### Tools & Cloud
 ![Git](https://img.shields.io/badge/Git-90C8E0?style=for-the-badge&logo=git&logoColor=white)
 ![Docker](https://img.shields.io/badge/Docker-5B9EC9?style=for-the-badge&logo=docker&logoColor=white)
-![AWS](https://img.shields.io/badge/AWS-D4EEFF?style=for-the-badge&logo=amazon-aws&logoColor=444)
 ![Figma](https://img.shields.io/badge/Figma-90C8E0?style=for-the-badge&logo=figma&logoColor=white)
 ![VS Code](https://img.shields.io/badge/VSCode-5B9EC9?style=for-the-badge&logo=visual-studio-code&logoColor=white)
 
@@ -58,7 +53,7 @@ fun facts:
 
 <div align="center">
 
-## ˚₊‧꩜ github stats ꩜‧₊˚
+## ꩜ github stats ꩜
 
 <br/>
 
@@ -70,7 +65,7 @@ fun facts:
 
 <div align="center">
 
-## ˚₊‧꩜ let's connect ꩜‧₊˚
+## let's connect
 
 [![Portfolio](https://img.shields.io/badge/Portfolio-90C8E0?style=for-the-badge&logo=firefox&logoColor=white)](https://yourportfolio.dev)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-5B9EC9?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/yourhandle)
