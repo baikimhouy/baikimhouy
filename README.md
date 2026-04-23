@@ -74,24 +74,9 @@ fun facts:
 
 ## ˚₊‧꩜ github stats ꩜‧₊˚
 
-<img src="https://github-readme-stats.vercel.app/api?username=YOUR_USERNAME&show_icons=true&theme=tokyonight&bg_color=0d1117&border_color=A8D8EA&icon_color=F4A7B9&title_color=A8D8EA&text_color=C9E4DE&ring_color=F4A7B9&hide_border=false" height="165"/>
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_USERNAME&layout=compact&theme=tokyonight&bg_color=0d1117&border_color=A8D8EA&title_color=A8D8EA&text_color=C9E4DE&hide_border=false" height="165"/>
-
 <br/>
 
 ![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=YOUR_USERNAME&theme=tokyonight&background=0d1117&border=A8D8EA&stroke=A8D8EA&ring=F4A7B9&fire=F4A7B9&currStreakNum=A8D8EA&sideNums=A8D8EA&currStreakLabel=B5EAD7&sideLabels=B5EAD7&dates=C9E4DE)
-
-</div>
-
----
-
-<div align="center">
-
-## ˚₊‧꩜ currently vibing to ꩜‧₊˚
-
-[![Spotify](https://novatorem.vercel.app/api/spotify?background_color=0d1117&border_color=A8D8EA)](https://open.spotify.com/user/YOUR_SPOTIFY_ID)
-
-> *lo-fi beats · anime ost · cozy playlist · midnight coding sessions* 🎵
 
 </div>
 
@@ -114,10 +99,3 @@ fun facts:
 　　　　✦ · · · · · · · · · · · · · · · · · · · · · · · ✦
 ```
 
-![snake gif](https://github.com/YOUR_USERNAME/YOUR_USERNAME/blob/output/github-contribution-grid-snake-dark.svg)
-
-![Profile Views](https://komarev.com/ghpvc/?username=YOUR_USERNAME&color=A8D8EA&style=for-the-badge&label=visitors)
-
-![footer](https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,14,24&height=120&section=footer&animation=fadeIn)
-
-</div>
