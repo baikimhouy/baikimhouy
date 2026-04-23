@@ -3,10 +3,6 @@
 <!-- Capsule Header -->
 ![header](https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=0,12,20&height=200&section=header&text=hello%20there%20✿&fontSize=52&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=welcome%20to%20my%20little%20corner%20of%20the%20internet&descAlignY=58&descSize=16&descColor=ffffffcc)
 
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Nunito&size=24&duration=3000&pause=800&color=A8D8EA&center=true&vCenter=true&multiline=false&width=600&lines=✨+full+stack+developer+✨;building+soft%2C+beautiful+things+🌸;one+pixel+at+a+time+💙;dreaming+in+code+🌙)](https://git.io/typing-svg)
-
-<br/>
-
 </div>
 
 ---
@@ -97,8 +93,5 @@ fun facts:
 　　　　✦ · · · · · · · · · · · · · · · · · · · · · · · ✦
 ```
 
-![Profile Views](https://komarev.com/ghpvc/?username=YOUR_USERNAME&color=5B9EC9&style=for-the-badge&label=visitors)
-
-![footer](https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=0,12,20&height=120&section=footer&animation=fadeIn)
 
 </div>
