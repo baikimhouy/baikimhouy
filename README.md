@@ -3,7 +3,7 @@
 ## ˚₊‧꩜ about me ꩜‧₊˚
 
 </div>
-<img align="right" src="https://i.pinimg.com/originals/f0/13/70/f01370d5b9d7c829fa7bf5ac9d628c9a.gif" width="400" alt="coding anime gif"/>
+<img align="right" src="https://i.pinimg.com/originals/f0/13/70/f01370d5b9d7c829fa7bf5ac9d628c9a.gif" width="250" alt="coding anime gif"/>
 
 ```yaml
 name:      "Bai Kimhouy"
