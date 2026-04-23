@@ -86,12 +86,4 @@ fun facts:
 [![Email](https://img.shields.io/badge/Email-90C8E0?style=for-the-badge&logo=gmail&logoColor=white)](mailto:ctin871@email.com)
 
 <br/>
-
-```
-　　　　✦ · · · · · · · · · · · · · · · · · · · · · · · ✦
-　　　　　　thanks for stopping by, have a lovely day 💙
-　　　　✦ · · · · · · · · · · · · · · · · · · · · · · · ✦
-```
-
-
 </div>
