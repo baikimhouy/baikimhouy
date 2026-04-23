@@ -78,5 +78,4 @@ fun facts:
 [![Email](https://img.shields.io/badge/Email-90C8E0?style=for-the-badge&logo=gmail&logoColor=white)](mailto:ctin871@email.com)
 
 <br/>
-<img align="right" src="https://i.pinimg.com/originals/57/12/21/571221c32d92e04b94ee4c31d3a5928f.gif" width="full" alt="coding if"/>
 </div>
