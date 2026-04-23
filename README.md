@@ -3,7 +3,7 @@
 ## ˚₊‧꩜ about me ꩜‧₊˚
 
 </div>
-<img align="right" src="https://i.pinimg.com/originals/50/5b/f0/505bf0e3d30a9774d9a780e8ce4bccb5.gif" width="400" alt="coding anime gif"/>
+<img align="right" src="https://i.pinimg.com/originals/50/5b/f0/505bf0e3d30a9774d9a780e8ce4bccb5.gif" width="250" alt="coding anime gif"/>
 
 ```yaml
 name:      "Bai Kimhouy"
@@ -11,9 +11,9 @@ role:      Full Stack Developer
 passion:   building things that feel as
            good as they look ✨
 currently:
-  - 🌱 learning something new every day
-  - 🎨 chasing pixel-perfect UIs
-  - ☕ powered by matcha & w2e
+  - learning something new every day
+  - chasing pixel-perfect UIs
+  - powered by matcha & w2e
 fun facts:
   - clean code = happy heart
   - Developing ADHD
@@ -28,7 +28,7 @@ fun facts:
 
 ## ˚₊‧꩜ tech stack ꩜‧₊˚
 
-### 💙 Frontend
+### Frontend
 ![HTML5](https://img.shields.io/badge/HTML5-90C8E0?style=for-the-badge&logo=html5&logoColor=white)
 ![CSS3](https://img.shields.io/badge/CSS3-5B9EC9?style=for-the-badge&logo=css3&logoColor=white)
 ![JavaScript](https://img.shields.io/badge/JavaScript-B8D8F0?style=for-the-badge&logo=javascript&logoColor=444)
@@ -37,7 +37,7 @@ fun facts:
 ![Next.js](https://img.shields.io/badge/Next.js-D4EEFF?style=for-the-badge&logo=next.js&logoColor=444)
 ![Vue](https://img.shields.io/badge/Vue-B8D8F0?style=for-the-badge&logo=vue.js&logoColor=444)
 
-### 🩵 Backend
+### Backend
 ![Node.js](https://img.shields.io/badge/Node.js-B8D8F0?style=for-the-badge&logo=node.js&logoColor=444)
 ![Express](https://img.shields.io/badge/Express-5B9EC9?style=for-the-badge&logo=express&logoColor=white)
 ![Python](https://img.shields.io/badge/Python-90C8E0?style=for-the-badge&logo=python&logoColor=white)
@@ -45,7 +45,7 @@ fun facts:
 ![MongoDB](https://img.shields.io/badge/MongoDB-B8D8F0?style=for-the-badge&logo=mongodb&logoColor=444)
 ![Redis](https://img.shields.io/badge/Redis-90C8E0?style=for-the-badge&logo=redis&logoColor=white)
 
-### 🌀 Tools & Cloud
+### Tools & Cloud
 ![Git](https://img.shields.io/badge/Git-90C8E0?style=for-the-badge&logo=git&logoColor=white)
 ![Docker](https://img.shields.io/badge/Docker-5B9EC9?style=for-the-badge&logo=docker&logoColor=white)
 ![AWS](https://img.shields.io/badge/AWS-D4EEFF?style=for-the-badge&logo=amazon-aws&logoColor=444)
