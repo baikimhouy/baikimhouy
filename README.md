@@ -57,10 +57,6 @@ fun facts:
 
 <br/>
 
-![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=YOUR_USERNAME&theme=tokyonight&background=0d1117&border=5B9EC9&stroke=5B9EC9&ring=90C8E0&fire=90C8E0&currStreakNum=A8D8EA&sideNums=A8D8EA&currStreakLabel=B8D8F0&sideLabels=B8D8F0&dates=D4EEFF)
-
-</div>
-
 ---
 
 <div align="center">
