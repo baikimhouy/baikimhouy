@@ -49,7 +49,8 @@ fun facts:
 
 </div>
 
-<div align="center"
+<div align="center">
+           
 ## let's connect
 
 [![Portfolio](https://img.shields.io/badge/Portfolio-90C8E0?style=for-the-badge&logo=firefox&logoColor=white)](https://yourportfolio.dev)
