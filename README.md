@@ -53,10 +53,6 @@ fun facts:
 
 <div align="center">
 
-## ꩜ github stats ꩜
-
-<br/>
-
 ---
 
 <div align="center">
