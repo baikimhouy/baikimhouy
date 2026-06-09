@@ -53,8 +53,7 @@ fun facts:
            
 ## let's connect
 
-[![Portfolio](https://img.shields.io/badge/Portfolio-90C8E0?style=for-the-badge&logo=firefox&logoColor=white)](https://yourportfolio.dev)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-5B9EC9?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/yourhandle)
+[![Portfolio](https://img.shields.io/badge/Portfolio-90C8E0?style=for-the-badge&logo=firefox&logoColor=white)]([https://yourportfolio.dev](https://portfolio3-three-alpha.vercel.app/))
 [![Twitter](https://img.shields.io/badge/Twitter-B8D8F0?style=for-the-badge&logo=twitter&logoColor=444)](https://twitter.com/LiJianjiange)
 [![Email](https://img.shields.io/badge/Email-90C8E0?style=for-the-badge&logo=gmail&logoColor=white)](mailto:ctin871@email.com)
 
